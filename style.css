@@ -23,6 +23,7 @@ header{
     text-transform: uppercase;
     font-weight: 700;
     font-size: 1.8em;
+
 }
 .Navigation a{
     color: #3a6cf3;
@@ -42,7 +43,7 @@ section{
     min-height: 100vh;
     display:flex ;
     align-items: top;
-    background: url(Images/Background_Img.jpg) no-repeat;
+    background: url(Background_Img.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
