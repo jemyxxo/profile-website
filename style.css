@@ -43,7 +43,7 @@ section{
     min-height: 100vh;
     display:flex ;
     align-items: top;
-    background: url(Background_Img.jpg) no-repeat;
+    background: url(GZone-Image.png) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
