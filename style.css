@@ -43,7 +43,7 @@ section{
     min-height: 100vh;
     display:flex ;
     align-items: top;
-    background-color: #024B7A;
+    background-color: black;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
